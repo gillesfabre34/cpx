@@ -1,0 +1,329 @@
+expCode;probCode;Experiment::time;Aufgabe1::time;Aufgabe1::PCAufgabe0;Aufgabe1::PCAufgabe0;Aufgabe1::answerAufgabe3a;Aufgabe1::beschreibungAufgabe3a;Aufgabe1::beschreibungAufgabe0;Aufgabe2::time;Aufgabe2::PCAufgabe0;Aufgabe2::PCAufgabe0;Aufgabe2::answerAufgabe3a;Aufgabe2::beschreibungAufgabe3a;Aufgabe2::beschreibungAufgabe0;Aufgabe3::time;Aufgabe3::PCAufgabe0;Aufgabe3::PCAufgabe0;Aufgabe3::answerAufgabe3a;Aufgabe3::beschreibungAufgabe3a;Aufgabe3::beschreibungAufgabe0;Aufgabe4::time;Aufgabe4::PCAufgabe0;Aufgabe4::PCAufgabe0;Aufgabe4::answerAufgabe3a;Aufgabe4::beschreibungAufgabe3a;Aufgabe4::beschreibungAufgabe0;Aufgabe5::time;Aufgabe5::PCAufgabe0;Aufgabe5::PCAufgabe0;Aufgabe5::answerAufgabe3a;Aufgabe5::beschreibungAufgabe3a;Aufgabe5::beschreibungAufgabe0;Aufgabe6::time;Aufgabe6::PCAufgabe0;Aufgabe6::PCAufgabe0;Aufgabe6::answerAufgabe3a;Aufgabe6::beschreibungAufgabe3a;Aufgabe6::beschreibungAufgabe0;Aufgabe7::time;Aufgabe7::PCAufgabe0;Aufgabe7::PCAufgabe0;Aufgabe7::answerAufgabe3a;Aufgabe7::beschreibungAufgabe3a;Aufgabe7::beschreibungAufgabe0;Aufgabe8::time;Aufgabe8::PCAufgabe0;Aufgabe8::PCAufgabe0;Aufgabe8::answerAufgabe3a;Aufgabe8::beschreibungAufgabe3a;Aufgabe8::beschreibungAufgabe0;Aufgabe9::time;Aufgabe9::PCAufgabe0;Aufgabe9::PCAufgabe0;Aufgabe9::answerAufgabe3a;Aufgabe9::beschreibungAufgabe3a;Aufgabe9::beschreibungAufgabe0;Aufgabe10::time;Aufgabe10::PCAufgabe0;Aufgabe10::PCAufgabe0;Aufgabe10::answerAufgabe3a;Aufgabe10::beschreibungAufgabe3a;Aufgabe10::beschreibungAufgabe0;Aufgabe11::time;Aufgabe11::PCAufgabe0;Aufgabe11::PCAufgabe0;Aufgabe11::answerAufgabe3a;Aufgabe11::beschreibungAufgabe3a;Aufgabe11::beschreibungAufgabe0;Aufgabe12::time;Aufgabe12::PCAufgabe0;Aufgabe12::PCAufgabe0;Aufgabe12::answerAufgabe3a;Aufgabe12::beschreibungAufgabe3a;Aufgabe12::beschreibungAufgabe0;Fragebogen::time;Seite1::time;Seite1::alter;Seite1::immatrikulationsjahr;Seite1::geschlecht;Seite1::geschlecht;Seite1::studiengang;Seite2::time;Seite2::PE;Seite2::PE;Seite2::PE;Seite2::PE;Seite2::PE;Seite2::PE;Seite2::PE;Seite2::PE;Seite2::PE;Seite2::PE;Seite2::programmierjahre;Seite2::programmierkurse;Seite2::Java;Seite2::Java;Seite2::Java;Seite2::Java;Seite2::Java;Seite2::C;Seite2::C;Seite2::C;Seite2::C;Seite2::C;Seite2::Haskell;Seite2::Haskell;Seite2::Haskell;Seite2::Haskell;Seite2::Haskell;Seite2::Prolog;Seite2::Prolog;Seite2::Prolog;Seite2::Prolog;Seite2::Prolog;Seite2::weitereProgrammiersprachenanzahl;Seite3::time;Seite3::logisch (Prolog);Seite3::logisch (Prolog);Seite3::logisch (Prolog);Seite3::logisch (Prolog);Seite3::logisch (Prolog);Seite3::funktional (Haskell);Seite3::funktional (Haskell);Seite3::funktional (Haskell);Seite3::funktional (Haskell);Seite3::funktional (Haskell);Seite3::imperativ (C);Seite3::imperativ (C);Seite3::imperativ (C);Seite3::imperativ (C);Seite3::imperativ (C);Seite3::objekt-orientiert (Java);Seite3::objekt-orientiert (Java);Seite3::objekt-orientiert (Java);Seite3::objekt-orientiert (Java);Seite3::objekt-orientiert (Java);Seite3::grossesProgrammierprojekt;Seite3::grossesProgrammierprojekt;Seite3::zeitGrossesProgrammierprojekt;Seite3::domaeneGrossesProgrammierprojekt;Seite3::locProjekte;Seite3::locProjekte;Seite3::locProjekte;Seite4::time;Seite4::Kursteilnehmer;Seite4::Kursteilnehmer;Seite4::Kursteilnehmer;Seite4::Kursteilnehmer;Seite4::Kursteilnehmer;Seite4::Programmierer;Seite4::Programmierer;Seite4::Programmierer;Seite4::Programmierer;Seite4::Programmierer;Ende::time;
+defaultMR;bx08;820806;307180;1;1;24;Fakultät;"10: Punkt zu viel
+2: : statt ;
+
+";158278;;;indexOf nicht bekannt;;"15: ; fehlt
+17: "" fehlt";134924;1;1;19;größte Zahl in einem Zahlenarray finden;"10: Klammer fehtlt
+5: Klammer fehlt
+6: ><";200320;1;1;olleH;Bildet das Spiegelbild eines Wortes ;"2: ' statt ""
+5: . statt ;";77033;1;1;42;Tauschen;"1: ) fehlt
+4: int temp
+8: ; fehlt";109481;1;1;8;2 hoch 3;"7: x
+9: _
+6: ,";247840;1;1;"ganz schon komplexer Algorithmus für so wenig Zeit ^^
+4,5 ";;"2: , fehlt
+6: do zu viel
+7: : statt ;";623550;1;1;4 6 1;zahlen in einem array tauschen und array ausgeben;"10: ! 
+6: array.length
+4: fehlende Klammer";114426;1;1;8;Quersumme;"9: ; statt .
+8: fehlende Klammer";118951;1;1;10;größte von 3 Zahlen ermitteln;"1: Strg
+6: &&&
+9: Sys
+";180789;1;1;1;findet Anzahl gleicher Buchstaben in zwei Wörtern;6: <>;94006;1;1;100;Binärzahl einer Dezimalzahl ermitteln;"6: true
+11: Klammer fehlt";3947;29641;26;2005;Weiblich;Weiblich;Dipl.-Informatik;276495;7;7;7;7;7;7;7;7;7;7;9;8;2;2;2;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;3;131399;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;3;3;3;3;3;Ja;Ja;3;Apps+Webanwendung;>40000;>40000;>40000;54241;3;3;3;3;3;1;1;1;1;1;29281;null vom Key
+defaultMR;de02;43670;210721;0;0;24;Produkt zweier Zahlen berechnen wobei eine Zahl stets verringert wird und das Ergebnis ein Faktor ist.;6. Es wird der Gleichheitsoperator == verwendet, nicht der Zuweisungsoperator =;181226;1;1;"Substring is contained: Java
+Substring ist not contained: Pascal";Prüft ob Worte in Strings enthalten sind und gibt das Ergebnis der Prüfung aus;10. + fehlt für Stringverknüpfung;216570;0;0;17;Vergleicht Feldelemente und weist bei Ungleichheit die Zahl aus dem Feld der Ergebnisvariable zu.;"6: Ungleichoperator benötigt !=
+10: ) fehlt";81736;0;0;olleH;Gibt Hello rückwärts aus;"2: "" statt ' benötigt";58698;1;1;42;Vertauscht den Wert zweier Variablen;4: Leerzeichen fehlt nach int;126418;0;0;8;Multipliziert zwei Zahlen, Ergebnis ist Faktor;"7: x statt * verwendet
+9: out.println benötigt";217236;0;0;6,5;Berechnet Summe von Fließkommazahlen;"2: Komma fehlt
+6: do gehört nicht zu if-Schleife";199830;0;0;"4
+6
+1";Vertauscht Werte im Array und gibt diese dann nacheinander aus;"6: array.length benötigt
+10: 1 statt ! benötigt";86924;0;0;3;Teilt eine Zahl durch 10 und weist den Rest einem Ergebnis zu.;9: . statt :;91613;0;0;10;Vergleicht 3 Zahlen;"6: ein & zu viel
+8: Vergleichsoperator fehlt
+9: System statt Sys";124918;0;0;0;Vergleicht die Buchstaben zweier Strings;6: > statt <>;99856;0;0;1;Teilt eine Zahl und vergleicht den Rest;6: 0 statt true;3756;17594;28;2003;Weiblich;Weiblich;Wirtschaftsinformatik;78631;6;6;6;6;6;6;6;6;6;6;10;6;3;3;3;3;3;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;3;93871;0;0;0;0;0;0;0;0;0;0;2;2;2;2;2;3;3;3;3;3;Ja;Ja;2 Jahre;Webapplikationsentwicklung;900-40000;900-40000;900-40000;35412;3;3;3;3;3;1;1;1;1;1;45131;null vom Key
+defaultMR;dv14;35800;105590;1;1;24;Fakultät;"2 : ;
+6 == =
+10 .
+";198229;1;1;"Substring is contained: Java
+Substring is not contained: Pascal";Substringsuche;"17 ' """;92789;0;0;19;Maximum;"5   geschweifte Klammer fehlt
+6 >< >
+10 ) fehlt
+";93959;1;1;elloH;String reverse;"1 args fehlt
+2 ' ""
+";63727;1;1;42;swap;"1 ( )
+4 Leerzeichen fehlt
+8 ; fehlt";120260;1;1;8;Zweierpotenz;"6 m ;
+7 x *
+9 _ .
+";81916;1;1;4,50;median;"2 , fehlt
+6 do zu viel
+7 : ;
+";114801;1;1;"4
+6
+1
+";Array reverse;"6 : .
+10 ! 1
+";119996;1;1;8;Quersumme;9 : .;51542;1;1;10;Maximum;"6 &&& &&
+8 > fehlt
+10 ( fehlt
+";108780;1;1;1;gleiche Buchstaben zählen;"6 <> >
+eine { zu viel
+13 ) fehlt
+";121712;1;1;100;Binärformatierung;"} fehlt
+then
+";5912;13650;30;2000;Männlich;Männlich;Ingenieurinformatik;290831;7;7;7;7;7;7;7;7;7;7;1992;>>10;2;2;2;2;2;4;4;4;4;4;0;0;0;0;0;1;1;1;1;1;4;173815;1;1;1;1;1;2;2;2;2;2;4;4;4;4;4;4;4;4;4;4;Ja;Ja;12;Automatisierung, VR/AR;>40000;>40000;>40000;33104;4;4;4;4;4;2;2;2;2;2;65661;null vom Key
+defaultMR;iz65;45443;203611;1;1;24;Fakultät;"2, doppelpunkt statt semikolon
+6, == statt =
+10, punkt zuviel";172443;1;1;"Substring is contained: Java
+Substring is not contained: Pascal";sin Strings in String enthalten;"10, + fehlt
+15, semikolon fehlt
+17, "" fehlt";134738;1;1;19;größte zahl des array ausgeben;"1, leerzeichen zuviel
+6, >< statt >=
+10, Klammer fehlt";72899;1;1;olleH;Rückwärtsuasgabe;"1, übergabe-variable fehlt
+2, ungleiche hochkomma genutzt
+5, komma statt semikolon";45584;1;1;42;zahlen tauschen;"1, Klammer zu fehlt
+4, leerzeichen fehlt
+8, semikolon fehlt";123288;1;1;8;2 hoch 3;"6, komma statt semikolon
+7, x statt mal
+9, _ statt .";201240;1;1;zeit zu knapp :-P;zeit zu knapp :-P;"2, komma fehlt
+7, doppelpunkt statt semikolon
+6, do zuviel";226418;1;1;461;hinten und vorne tauschen;"6, : statt .
+10, ! statt 1";93491;1;1;8;quersumme;"1, main fehlt
+8, fehlende K }
+9, : statt .";67564;1;1;10;größte der drei zahlen;"6, &&&
+8, > fehlt
+9, Sys statt System";175267;1;1;1;gleiche buchstaben bis kürzeste wortlänge;"13, klamer zuviel oder zu wenig
+";119340;1;1;100;binarisieren;"6, then
+10, klamer fehlt";6520;15584;29;2003;Männlich;Männlich;Informatik;146609;7;7;7;7;7;7;7;7;7;7;15;04. Mai;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;4;80513;0;0;0;0;0;0;0;0;0;0;3;3;3;3;3;4;4;4;4;4;Ja;Ja;5 jahre;Webapplikationen;>40000;>40000;>40000;62119;4;4;4;4;4;2;2;2;2;2;97750;null vom Key
+defaultMR;jw55;362037;204563;;;24;n!;"6, ==
+10, .";130962;1;1;"Substring is contained: Java
+Substring is not containes: Pascal";Teilstring enthalten?;"17, ""
+15, ;";80277;;;19;Bestimme Max;"6, ><
+10, )
+5, {";137966;;;olleH;Wort invertieren;"2, ""
+5, ;";74022;;;42;Sortiere (dazu: Vertausche);"1, )
+4, Leerzeichen
+8, ;";51449;;;8;n^m;"6, ;
+7, x
+9, _";100745;;;zu wenig zeit, aber versuch war da...;;"2, ,
+9, )";154674;;;erneut versucht, aber gescheitert... :(;;"6, :
+4,{
+10, !";44835;;;8;Quersumme;"8, }
+9, :";64397;;;10;bestimme absolutes Max.;"1, String
+6, &
+8, >";63633;;;1;Zähle identische Buchstaben an gleichen Positionen.;"6, <>
+";47705;;;100;Binärdarstellung;"11, }
+6, true
+6, then";7239;19547;25;2007;Männlich;Männlich;Mathematik;80512;2;2;2;2;2;2;2;2;2;2;8;5;2;2;2;2;2;0;0;0;0;0;1;1;1;1;1;0;0;0;0;0;4;42993;0;0;0;0;0;1;1;1;1;1;3;3;3;3;3;2;2;2;2;2;Nein;Nein;;;;;;23837;2;2;2;2;2;0;0;0;0;0;16177;null vom Key
+defaultMR;kf44;20830;242667;0;0;512;Exponentenberechnung;"6, doppeltes =
+10, . muss weg";153207;1;1;"Substring is contained: Java
+Substring is not contained: Pascal";Prüfung ob Filterstring enthalten ist;"17 fehlendes """;143725;1;1;19;Suchalgorithmus nach der größten Zahl;"6 >< es geht nur eins
+5 fehlende geschweifte Klammer bei der for
+10 fehlende ) vor dem Semikolon";83112;0;0;ollaH;dreht den gegebenen String um;"2 ' muss ein "" sein
+5 , muss ein ;";86003;1;1;42;Tauscht die beiden Variablen;"4 leerzeichen zwischen int und temp
+8 fehlendes Semikolon
+";88015;1;1;8;Exponentenrechnung;"7 x sollte ein * sein
+9 _ sollte ein . sein
+6 , muss ein ; sein";166421;0;0;6;sortiert das Feld und addiert immer n/2-1 und die n/2 zahl;"6 do gehört da nicht hin
+2 fehlendes Komma zwischen 5 und 6
+";117016;1;1;"4
+6
+1";dreht das Array um;"4 fehlende {
+10 ! muss eine zahl sein";79217;1;1;8;bilde die Quersumme aus der gegebenen Zahl;"8 fehlende }
+9 : muss ein . sein";77175;0;0;10;Findet die größte Zahl aus den gegeben Werten;"6 ein & muss weg
+8 fehlendes >
+10 fehlende (";97001;1;1;1;Vergleicht 2 String auf übereinstimmung und zählt diese;"6 <> es geht nur eins
+13 fehlende )
+13 fehlende {";131852;1;1;100;wandelt eine gegeben Zahl in dessen binärcode um;6 == true geht nicht, sollte 0 sein;5616;20967;26;2010;Männlich;Männlich;Informatik;97393;6;6;6;6;6;6;6;6;6;6;12;7;2;2;2;2;2;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;C#;83616;0;0;0;0;0;1;1;1;1;1;2;2;2;2;2;3;3;3;3;3;Ja;Ja;6 Monate;Webanwendung;900-40000;900-40000;900-40000;20716;2;2;2;2;2;1;1;1;1;1;47674;null vom Key
+defaultMR;ki47;217948;177325;1;1;24;1*2*3*4;"6, == anstatt =
+10, Punkt vor Semikolon
+2, : statt ;";100948;1;1;"Substring is contained: Java
+Substring is not contained: Pascal";Prüfung ob zwei Wörter in Wortgruppe sind;"10, + fehlt
+15, Semikolon fehlt
+17, "" fehlt";81605;1;1;19;sucht größtes Elem in Array;"6, ><
+5, { fehlt
+10, ) fehlt";134909;1;1;olleH;"das Wort ""word"" umdrehen";"2, falsch endendes Hochkomma
+5, Komma statt ;
+";101103;1;1;42;Vertauschen der Variablenwerte;"5, Leerzeichen nach int fehlt
+8, Semikolon fehlt
+1, ) fehlt";243064;1;1;8;Schleife wird zweimal durchlaufen und result (initial = 2) wird mit 2 multipliziert;"8, } fehlt
+7, x statt *
+9, _ statt .";252972;1;1;6,5;zweites und drittes Element im Array (0 basierend) werden addiert, wobei das dritte Elem vorher durch 2 geteilt wird;"6, do statt {
+7, : statt ;
+9, ) zu viel
+";289365;1;1;"4
+6
+1";erstes und letztes Elem im Array tauschen;"10, ! anstatt 1
+4, { fehlt
+6, : statt .";183050;1;1;5;Addition von Moduloberechnungen;"8, } fehlt
+9, : statt .";81978;1;1;10;Vergleich dreier Zahlen und finden der größten;"6, ein & zu viel
+10, ( fehlt
+9, Sys anstatt System";118357;1;1;1;Finden gleicher Buchstaben in zwei Wörtern;"13, { fehlt
+13, ) fehlt
+6, <> anstatt !=";191054;1;1;1;Moduloberechnung und 0 zum Wort (initial leer) bei Rest 0, sonst 1;"11, } fehlt
+6, then statt {
+6, true";10187;16146;26;2009;Männlich;Männlich;Informatik;155252;5;5;5;5;5;5;5;5;5;5;6;7;3;3;3;3;3;2;2;2;2;2;2;2;2;2;2;0;0;0;0;0;3;81121;0;0;0;0;0;2;2;2;2;2;2;2;2;2;2;4;4;4;4;4;Ja;Ja;2011;Mobile, Cloud, Web;900-40000;900-40000;900-40000;88982;2;2;2;2;2;1;1;1;1;1;231052;null vom Key
+defaultMR;kw33;151991;156951;1;1;"24	";Fakultät berechnen ;"2, : statt ;
+10: . vor ;";116813;1;1;"Substring is contained: Java
+Substring is not contained: Pascal	";Test, ob Worte in  Text enthalten sind;15, Semikolon fehlt;94115;1;1;19;gibt größte Zahl zurück;"2, Klammern für Array müssen nach int folgen
+6, Vergleichsoperator
+10, ) fehlt";74741;0;0;olleH;gibt Wort rücckwärts aus;"1, Name für Parameter fehlt
+5, Index kann negativ werden";63367;1;1;42;var 2 wird ausgegeben;4, fehlendes Leerzeichen zwischen int und temp;139308;1;1;8;Zahl wird zweimal verdoppelt;"6, } fehlt in Zeile 8
+7, x statt *
+9, _ in Syso";73242;1;1;"ist mir während dem Test nicht eingefallen	";;"2, Komma zwischen 5 und 6
+6, do gehört da nicht hin
+9, ( zu viel";86705;1;1;"6	";gibt mittleres Element zurück;10, ! statt 1;63570;1;1;"8	";Quersumme der Zahl;"1, main fehlt
+9, : in Syso";66206;1;1;10;gibt größte Zahl aus;"1, Strg statt String
+6, &&& statt &&
+8, Operator zwischen num2 und num3 fehlt";107718;1;1;1;Zählt wie viele Buchstaben in beiden Wörtern übereinstimmen;"6, <> anstatt !=
+13,{ fehlt nach if-Anweisung";113022;1;1;100;Binärdarstellung der Zahl;"5, } fehlt für while-Schleife
+6, then gehört nicht hin
+13, }
+";4648;18610;26;2007;Männlich;Männlich;Informatik;64709;5;5;5;5;5;5;5;5;5;5;6;10;3;3;3;3;3;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;3;76877;0;0;0;0;0;1;1;1;1;1;1;1;1;1;1;3;3;3;3;3;Ja;Ja;1 Jahr;Webanwendung;900-40000;900-40000;900-40000;33322;3;3;3;3;3;0;0;0;0;0;7254;null vom Key
+defaultMR;ny03;21668;315355;0;0;24;The method loops from 4 to 3 to 2 and multiplies the numbers: 1*(4*3*2).;"line 2, : should be ;
+line 6, == should be =
+line 10, extra . at end";267727;0;0;"Substring is contained: Java
+Substring is not contained: Pascal";Checks if two substrings are contained within a string, and prints the results for each.;"line 10, missing +
+line 15, missing ;
+line 17, missing """;257541;0;0;5;The method loops through each element of an array and compares them to the first element. If not equal, the result is updated to contain the current element value.;"line 5, { missing
+line 6, <> should be !=
+line 10, ) missing";206092;0;0;lleH;The method prints a word backwards, starting from the second-to-last letter.;"line 1, needs variable name
+line 2, ' should be ""
+line 5, , should be ;";121165;0;0;42;Copies two numbers between variables, prints one of them at the end.;"line 1, { should be )
+line 4, space missing
+line 8, missing ;";134238;0;0;8;Multiplies (2 x 2) x 2;"line 6, , should be ;
+line 8, for loop missing }
+line 9, _ should be .";143396;0;0;Did not determine output while in scanner, but did attempt to.;;"line 2, comma missing
+line 6, should not contain ""do""
+line 7, : should be ;";146812;0;0;Did not determine output while in scanner, but did attempt to.;;"line 6, : should be .
+line 10, ! should be 1.
+Did not find 3rd error.";152506;0;0;Did not determine output while in scanner, but did attempt to.;Function adds the remainder (modulus) of a number to the result, divides the number by ten, and repeats until the number is zero.;"line 1, missing method name
+line 8, while loop missing }
+line 9, : should be .
+";89762;0;0;10;Method compares three numbers and prints the largest.;"line 6, too many &s
+line 8, missing >
+line 9, Sys should be System.";113896;0;0;1;Compares the first 7 letters of each string and counts the number of positions with the same letter.;"line 13, missing )
+line 15, unnecessary }
+Didn't find 3rd error.";195655;0;0;1;Method adds 0 to the result when the index variable is even, otherwise it adds 1. Index steps from 4 to 2 to 1.;"line 6, ""then"" is unecessary
+line 11, while loop missing }
+Did not find 3rd error.";13650;47003;27;2003;Männlich;Männlich;Integrative Neuroscience;114957;6;6;6;6;6;6;6;6;6;6;10;6;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;3;182208;0;0;0;0;0;1;1;1;1;1;2;2;2;2;2;4;4;4;4;4;Ja;Ja;3 years;Database, Web Application;900-40000;900-40000;900-40000;42728;3;3;3;3;3;1;1;1;1;1;22932;null vom Key
+defaultMR;pe80;26598;158761;0;0;"24	";Fakultät von 4;"Zeile 10 - .
+2 - semikolon
+";90777;1;1;"""Substring is contained: Java""
+""Substring is not contained: Pascal""";test ob string substring eines anderen;;161304;0;0;19;Gibt die größte Zahl des Arrays zurück;"6 - ><
+10 - )
+5 - {";86050;1;1;olleH;reverse eines strings;"5 - {
+7 - }";53586;1;1;42;tauscht zwei zahlen;"8 -;
+1 - )";80106;1;1;8;potenz;"5 - ; statt ,
+7 - * statt x
+8 - }";164862;1;1;4,5;gibt den mittleren wert eines arrays wieder;"2 - ,
+6 - do
+7 - ;";75349;1;1;"4
+6
+1";gibt inhalt des array von hinten nach vorne aus;"4 - {
+";86034;1;1;weiß nicht;quersumme;"8 - }
+9 - .";44351;1;1;10;gibt die größte von drei zahlen;"6 - &&
+8 - >
+10 - (";78353;1;1;1;zählt die stellen an denen die strings gleich sind;"13 - )
+15 - } zu viel";141697;1;1;0010 - nicht genau angeschaut;wandelt int in binär um;11 - };4305;60489;23;2009;Männlich;Männlich;Ing-Inf;92211;7;7;7;7;7;7;7;7;7;7;4;5;2;2;2;2;2;2;2;2;2;2;3;3;3;3;3;0;0;0;0;0;2;64116;0;0;0;0;0;4;4;4;4;4;2;2;2;2;2;3;3;3;3;3;Ja;Ja;1;Webandwedung/Cloud;900-40000;900-40000;900-40000;33930;2;2;2;2;2;0;0;0;0;0;29187;null vom Key
+defaultMR;ph21;1506753;218728;1;1;24;solange multiplizieren von num, bis num einen wert größer 1 erreicht hat;"6, ==
+10, .";194189;1;1;"Substring is contained: Java
+Substring is not contained: Pascal";Suche nach Zeichenketten, ob diese enthalten sind;"17, ""
+10, felendes +
+15, ;";141478;0;0;19;die größte zahl suchen;"6, ><
+10, fehlt )
+5, length fehlt ()";164409;1;1;olleH;Reverse vom Hello String;"2, '
+5, , statt ;";96923;1;1;42;swap ;"1, )
+4, fehlendes leerzeichen
+8, ;";109231;1;1;8;potenz 2 hoch 3;"6, , statt ;
+7, x
+9, _";137874;1;1;4,5;Mittelwert der Liste benutzen;"2, , fehlt
+6, do
+7, :";173161;1;1;4, 6, 1;spiegeln der liste;"6, :length
+10, !
+4, length ist ne funktion";137062;1;1;8;quersumme;"8, }
+9, :
+";66534;1;1;10;die größte zahl ausgeben;"6, & zu viel
+8, > fehlt
+9, Sys --> System";149293;1;1;1;Übereinstimmung von Buchstaben gleicher Position;"6, <>
+13, )
+13, { oder 15, } zu viel";218681;1;1;0;Prüfung ob die Zahl grade oder ungerade ist;"6, then
+11, }
+";2870;16879;28;2004;Männlich;Männlich;Informatik;93725;6;6;6;6;6;6;6;6;6;6;12;7;3;3;3;3;3;2;2;2;2;2;1;1;1;1;1;1;1;1;1;1;6;87469;1;1;1;1;1;1;1;1;1;1;2;2;2;2;2;4;4;4;4;4;Ja;Ja;2007;Wirtschaft;900-40000;900-40000;900-40000;22386;3;3;3;3;3;1;1;1;1;1;24711;null vom Key
+defaultMR;pv78;21972;174607;1;1;24;Fakultät;"2, Doppelpunkt statt Semikolon
+6, Boolean wird int zugewiesen
+10, Punkt ohne Klassenmethode/-eigenschaft";164327;1;1;"Substring is contained: Java
+Substring is not contained: Pascal";Prüfung auf beinhalteten Teilstring;"10, Concat fehlt (+)
+15, Semikolon fehlt
+17, Anführungszeichen fehlen";82878;1;1;19;Mit den Fehlern schwer herzuleiten, aber ich meine mich zu erinnern, dass es das Maximum des Arrays war, das zurückgegeben wird.;"5, Geschweifte Klammer fehlt
+6, Ungültiger Operator zum Vergleich
+10, Klammer zu nach Operand fehlt";130458;1;1;olleH;Stringumkehr;"1, Variablenname fehlt
+2, Doppelte Anführungszeichen statt einfache (müssten es sein)
+5, Komma statt Semikolon";59488;1;1;42;Adams Antwort ausgeben;"1, Schließende Klammer fehlt
+4, Leerzeichen fehlt
+8, Semikolon fehlt";151174;1;1;12;"a * b!
+A mal Fakultät(b)";"6, Komma statt Semikolon
+7, x statt *
+8, fehlende schließende Klammer";130372;1;1;4,50;Mittleres Element des Arrays ausgeben, bzw. das Mittel der beiden mittleren Elemente ausgeben, falls das Array eine gerade Anzahl an Elementen hat;"2, Komma fehlt
+6, do ist hier nicht gültig
+7, Doppelpunkt statt Semikolon
+";157589;1;1;"4
+6
+1";Umkehr der Elemente eines Arrays;"4, Geschweifte Klammer fehlt
+6, Doppelpunkt statt Punkt
+10, ! statt 1
+";106145;1;1;8;Quersumme bilden;"1, Name der main-Methode fehlt
+8, Geschweife Klamemr fehlt
+9, Doppelpunkt statt Punkt";51059;1;1;10;Maximum von drei Zahlen ausgeben;"6, ein & zuviel
+8, fehlender Operand
+9, Sys statt System";166532;1;1;1;Anzahl der übereinstimmenden Zeichen an gleichen Stellen finden;"6, <> statt !=
+13, schließende Klammer fehlt
+";169294;1;1;0;Ausgabe des Rests einer iterativen Division durch 2 bis 0;"6, then
+6, Vergleich int mit true
+11, schließende Klammer fehlt";2044;35403;28;2004;Männlich;Männlich;naturwissenschaftliche Informatik (Informatik/Biologie);106761;6;6;6;6;6;6;6;6;6;6;22;5;3;3;3;3;3;3;3;3;3;3;2;2;2;2;2;1;1;1;1;1;7;66732;1;1;1;1;1;2;2;2;2;2;3;3;3;3;3;3;3;3;3;3;Ja;Ja;2006;Biologie / Energiewirtschaft;>40000;>40000;>40000;21558;4;4;4;4;4;3;3;3;3;3;4181;null vom Key
+defaultMR;qj04;296993;238540;1;1;24;Fakultät;Zeile 10 Punkt hinter Syso;114956;1;1;"System.out.println(""Substring is contained: Java""";Schauen, ob eines der Wrote in string enthalten ist.;z 15;89498;1;1;19;Größte Zahl der liste suchen;6, <>;77985;1;1;olleH;Das Wort in umgekehrter reihenfolge ausgeben;"5 , statt ;";66004;1;1;42;Die zweite Variable ausgeben;4 fehlendes Leerzeichen;102290;1;1;8;num1 hoch num2;"7 x statt *
+6 , statt ;";150058;1;1;4,50;bei ungerade anzahl elemente das mittlere ausgeben, bei gerader elementzahl den mittelwert der beiden mittleren elemente bilden;"6 do
+2 komma fehlt zwischn 5 und 6";77688;1;1;keine ahnung;keine ahnung;"6 : statt .
+10 ! statt 1";81823;1;1;8;Quersumme;9 : statt .;49546;1;1;10;Großte der drei Variablen ausgeben;"6 &&&
+8 fehlendes >
+10 fehlende (";100573;1;1;1;Anzahl gleicher Buchstaben an gleichen Stellen im Wort ausgeben;"6 <>
+13 ) fehlt";81666;1;1;100;i in binäre Darstellung umwandeln;6 then;6318;36395;26;2008;Männlich;Männlich;Informatik;198089;4;4;4;4;4;4;4;4;4;4;12;08. Sep;2;2;2;2;2;0;0;0;0;0;3;3;3;3;3;0;0;0;0;0;1;56441;1;1;1;1;1;3;3;3;3;3;2;2;2;2;2;3;3;3;3;3;Nein;Nein;;;;;;21091;2;2;2;2;2;0;0;0;0;0;13946;null vom Key
+defaultMR;rl93;122756;267915;1;1;24;"Sie zählt einen Zähler von 4 auf 1 herunter.
+Und bei jedem Schritt multipliziert sie das Vorergebnis (start bei 4) mit dem aktuellen Zählerstand.";"2 Semikolon
+6 ==
+10 .";134316;0;0;Substring is contained: Java;"Methode sucht in einem gegebenen String nach dem Vorkommen zweier Wörter.
+Je nach gefundenem Wort wird dieses dann ausgegeben.
+";2x verstanden und nicht nach Syntax gesucht.;128108;1;1;17;"Methode durchläuft ein Array mit Zahlen.
+Wenn der Vorgänger im Array ungleich der aktuellen Zahl ist, wird die aktuelle Zahl sich gemerkt.
+und später ausgegeben";"5 geschweifte Klammer
+10 Klammer am Ende -1
+";75379;1;1;olleH;Vertauscht die Buchstabenreihenfolge im String.;"5 Semikolon statt Komma
+1 args fehlt
+2 Anführungszeichen";94458;1;1;42;Im Grunde wird nur einmal var1 der Wert var2 (42) zugewiesen und ausgegeben dazu noch mit viel Ablenkung.;"1 Klammer zu
+4 leerzeichen zw. int und temp
+8 semikolon am ende fehlt";191256;1;1;8;"result wird auf 2 gesetzt
+dann wird eine schleife 2x durchlaufen und jedesmal result verdoppelt (da mit num1 multipliziert)
+";"6 semikolon statt komma
+7 * statt x
+8 geschw. klammer
+";359160;0;0;3,5;"erstmal wird überprüft ob der Rest von der Arraylänge geteilt durch 2 == 1 ist.
+Da Länge 6 ist, ist Rest 0
+
+Daher wird nun b errechnet
+zuerst wird die Länge halbiert und um eins subtrahiert = 2
+dazu wird addiert: der halbe Wert des Elements an Stelle 3 = 2,5
+= 4,5 ... okay oben falsch";"2 Komma
+6 do
+";98748;1;1;4, 6, 1;Dreht die Elemente im Array um;"4 geschw. Klammer
+10 -! -> -1";277197;1;1;26;"Methode addiert den Rest von 323 geteilt durch 10
+Danach teilt sie diese Zahl mit Zehn und addiert wiederum den Rest geteilt durch 10.
+3+2 =5 ?!";"8 geschw. Klammer
+9 : -> .";71682;1;1;10;Gibt mit vielen Vergleichen die größte Zahl aus.;"1 Strg -> String
+6 Ein & zu viel
+10 Klammer auf fehlt";126079;1;1;1;Gibt die Anzahl gleicher Buchstaben an der gleichen Stelle im Wort zurück.;13 Klammer fehlt am Ende;214765;1;1;1;wahrscheinlich macht es die Binärdarstellung der Zahl;"6 true falsch; then
+11 geschw. klammer";3463;19126;31;2001;Männlich;Männlich;Informatik;73725;4;4;4;4;4;4;4;4;4;4;4;2;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;140041;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;2;2;2;2;2;Ja;Ja;3 Jahre;GUI + Mathematische Verfahren;900-40000;900-40000;900-40000;40155;3;3;3;3;3;0;0;0;0;0;238884;null vom Key
+defaultMR;uk22;256776;342749;1;1;6;mulitiplizieren von restukt mit num solange num > 1;"10 ohne punkt
+";234359;1;1;"Substring is contained: "" word1);
+""Substring is not contained: + word2);
+";"herausfinden ob java und pascal 
+in dem ersten string enthalten sind";17;57658;1;1;19;"gibt das größte element aus	";"10
+6
+";103896;1;1;olleH;umdrehen des Wortes;5,2;56488;1;1;42;dreieckstausch;4 8 1;116922;1;1;18;Zahl1 hoch Zahl2;7, 8;95566;1;1;4,5;das mittlere Elment des Arrays ausgeben bzw der mittelwert der beiden mitteleren elemente;6;274872;1;1;4 6 2;drehen der reihenfolge der elmenete de arrays;10;90980;1;1;8;quersumme;8, 9;61418;1;1;10;gibt die größte zahl zurück;"6, 8,1 	";75738;1;1;1;gibt die anzahl der gleichen buchstaben zurück, die an der gleichen stelle sind;6, 13;75114;1;1;100;zahl +1 in binärdarstellung;6;5476;18486;26;2006;Männlich;Männlich;inf;122210;7;7;7;7;7;7;7;7;7;7;8;ca 10;4;4;4;4;4;2;2;2;2;2;1;1;1;1;1;0;0;0;0;0;2;76659;0;0;0;0;0;1;1;1;1;1;2;2;2;2;2;4;4;4;4;4;Ja;Ja;5 jahre;SE , DB;900-40000;900-40000;900-40000;32760;3;3;3;3;3;1;1;1;1;1;3182;null vom Key
+defaultMR;ut36;67860;524068;1;1;24;fakultät umgedreht berechnet;"6: zuweiung vs vergleich
+10: zeichen";113365;1;1;"zeile 10 ;)";contains;17 unbeendeter string;72088;1;1;19;max;6 operator;82478;1;1;olleH;copy swaped string;"2: ' statt ""
+5 , statt ;";42947;1;1;42;swap;4 leerezeichen fehlt;84879;1;1;8;potenz;"7 *
+6 , statt ;
+8 lammer fehlt";147997;0;0;unsicher ich glaub da fehlen klammer zum casten;median;"2 , fehlt
+";87377;1;1;4 6 1;array swap;6 : statt .;32027;1;1;8;quersumme;8 klammer fehlt;38797;1;1;10;triple-max;"6 & zu viel
+8 > fehlt";95160;1;1;1;character vergleich bis length min-sized string;;57361;1;1;1;inverses bit-darstellung;11 klammer fehlt;965277543;0;;;;;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;;;;;;;;;;;0;null vom Key
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
