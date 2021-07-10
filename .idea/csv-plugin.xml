@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/studies/peitek-2021-program-comprehension-and-cc-metrics-fmri/data/ParticipantBehavior.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/studies/peitek-2021-program-comprehension-and-cc-metrics-fmri/data/SnippetComplexityMetricsValues.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/studies/peitek-2021-program-comprehension-and-cc-metrics-fmri/data/dataset-peitek-2021.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/studies/peitek-2021-program-comprehension-and-cc-metrics-fmri/data/fMRI_Analyzed_BA_Snippet_Activation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/studies/peitek-2021-program-comprehension-and-cc-metrics-fmri/data/fMRI_Analyzed_BA_Snippet_Deactivation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/studies/peitek-2021-program-comprehension-and-cc-metrics-fmri/data/fMRI_Analyzed_BA_Snippet_Participant_Activation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/studies/peitek-2021-program-comprehension-and-cc-metrics-fmri/data/fMRI_Analyzed_BA_Snippet_Participant_Deactivation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/studies/siegmund-2012-toward-measuring-comprehension/data/default-answers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
