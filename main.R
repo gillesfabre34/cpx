@@ -7,78 +7,83 @@ library(readxl)
 library(writexl)
 library(dplyr)
 
-print("---------------- START PEITEK STUDY -------------------")
+print("---------------- START STUDY -------------------")
 
 # ---------------------------------------------------------------------------------
 # -------------------   CALCULATE MEAN DATA FROM DATASET   ------------------------
 # ---------------------------------------------------------------------------------
 
-peitek_data <- read_excel("peitek-dataset.xlsx")
-data <- data.frame(peitek_data)
-data <- data[with(data, order(Snippet)), ]
+xl_data <- read_excel("dataset-cpx.xlsx", sheet="data", range="E1:H24")
+data <- data.frame(xl_data)
 
+print(data)
 
-print("---------------- FILTERED DATA -------------------")
-
-filtered_data <- data %>% filter(Correct == 1)
-filtered_data <- data.frame(Snippet = filtered_data$Snippet, ResponseTime = filtered_data$ResponseTime)
-
-print(head(filtered_data, 10))
-
-print("------------------ GROUPED DATA -------------------")
-
-by_snippet <- filtered_data %>% group_by(Snippet)
-by_snippet <- by_snippet %>% summarise(ResponseTime = mean(ResponseTime))
-by_snippet <- by_snippet[!is.na(by_snippet$ResponseTime),]
-
-print(by_snippet, 30)
-
-# ---------------------------------------------------------------------------------
-# -------------------   CALCULATE MEAN DATA FROM DATASET   ------------------------
-# ---------------------------------------------------------------------------------
-
-print("------------------ METRICS -------------------")
-
-peitek_metrics <- read_excel("peitek-metrics.xlsx")
-metrics <- data.frame(peitek_metrics)
-metrics <- data.frame(Snippet = metrics$Snippet, SonarQube = metrics$SonarQube, GeneseCpx = metrics$GeneseCpx)
-
-print(metrics)
-
-print("------------------ MERGE -------------------")
-
-merge <- data.frame(SonarQube = numeric(0), GeneseCpx = numeric(0), ResponseTime = numeric(0))
-# merge <- data.frame(Snippet = character(0), SonarQube = numeric(0), GeneseCpx = numeric(0), ResponseTime = numeric(0))
-for (row in 1:nrow(by_snippet)) {
-  snippetName <- by_snippet[row,]$Snippet
-  val <- metrics[which(metrics$Snippet == snippetName),]
-  if (nrow(val) > 0) {
-    # print(paste("SNIPPET", val$Snippet, val$SonarQube, val$GeneseCpx, is.numeric(val$SonarQube), is.numeric(val$GeneseCpx), is.numeric(by_snippet[row,]$ResponseTime)))
-    newRow <- c(as.numeric(val$SonarQube), val$GeneseCpx, by_snippet[row,]$ResponseTime)
-    # newRow <- c(val$Snippet, as.numeric(val$SonarQube), val$GeneseCpx, by_snippet[row,]$ResponseTime)
-    merge[nrow(merge) + 1,] <- newRow
-  }
-}
-print("------   MERGED ARRAY   -------")
-print(merge)
-
-write_xlsx(merge, "peitek-means.xlsx")
-
-print("------------------ CORRELATION -------------------")
-
-# Returns pearson's r for the given tau using Kendall's formula (1970)
-convert_to_pearson <- function(tau) {
-  return(sin(0.5 * pi * tau))
+sanitize <- function(col, data) {
+  columns <- data.frame(data$response_time, data[col])
+  return (columns[complete.cases(columns),])
 }
 
-sonarqube_kendall <- cor(merge$SonarQube, merge$ResponseTime, method="kendall")
-genese_cpx_kendall <- cor(merge$GeneseCpx, merge$ResponseTime, method="kendall")
+print(sanitize("dynamic", data))
 
-sonarqube_pearson <- sapply(sonarqube_kendall, convert_to_pearson)
-genese_cpx_pearson <- sapply(genese_cpx_kendall, convert_to_pearson)
+
+sonarqube_kendall <- cor(c(data$sonarqube), c(data$response_time), method="kendall")
+genese_cpx_kendall <- cor(c(data$genese_cpx), c(data$response_time), method="kendall")
+dynamic_kendall <- cor(c(data$dynamic), c(data$response_time), method="kendall")
+
+sonarqube_pearson <- cor(c(data$sonarqube), c(data$response_time), method="pearson")
+genese_cpx_pearson <- cor(c(data$genese_cpx), c(data$response_time), method="pearson")
+dynamic_pearson <- cor(c(data$dynamic), c(data$response_time), method="pearson")
+
+
 print(paste("SONARQUBE : TAU KENDALL = ", sonarqube_kendall, " PEARSON = ", sonarqube_pearson))
-print(paste("TAU KENDALL GENESE CPX : ", genese_cpx_kendall, " PEARSON = ", genese_cpx_pearson))
+print(paste("GENESE CPX TAU KENDALL : ", genese_cpx_kendall, " PEARSON = ", genese_cpx_pearson))
+print(paste("DYNAMIC TAU KENDALL : ", dynamic_kendall, " PEARSON = ", dynamic_pearson))
 
 
-
-print("----------------- END PEITEK STUDY -------------------")
+print("----------------- END STUDY -------------------")
+#
+# dynamic metric
+#
+# Time
+#
+# 68.01
+# 100.27
+# 154.64
+# 211.48
+# 70.51
+# 66.05
+# 104.83
+# 65.42
+# 42.59
+# 65.47
+# 59.81
+# 37.43
+# 48.39
+# 20.50
+# 99.99
+# 145.24
+# 80.62
+# 89.94
+# 54.50
+#
+#
+#
+# 5.25
+# 11.9375
+# 15.5
+# 19.75
+# 5.625
+# 10
+# 7
+# 5.98828125
+# 9
+# 6
+# 9
+# 3
+# 7.75
+# 2
+# 6
+# 12.78125
+# 7.5
+# 6.875
+# 7.75
