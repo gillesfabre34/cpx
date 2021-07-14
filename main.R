@@ -16,13 +16,25 @@ print("---------------- START STUDY -------------------")
 xl_data <- read_excel("dataset-cpx.xlsx", sheet="data", range="E1:H24")
 data <- data.frame(xl_data)
 
-print(data)
+# print(data)
 
 sanitize <- function(col, data) {
   columns <- data.frame(data$response_time, data[col])
   return (columns[complete.cases(columns),])
 }
 
+analyze <- function(col, data) {
+
+}
+
+metrics <- data %>% select(2:4)
+
+print("metrics")
+print(metrics)
+for (i in 2:(ncol(data))) {
+  print(paste(" i = ", i))
+  print(data[1, i])
+}
 print(sanitize("dynamic", data))
 
 
